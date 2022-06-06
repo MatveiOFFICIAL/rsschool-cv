@@ -39,6 +39,7 @@
 
 ```javascript
     let a = 21;
+    
     while(a<67) {
         a = a + 2;
     console.log(a);
