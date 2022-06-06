@@ -1,14 +1,14 @@
 <h1>Matvei Khvostikov</h1>
 
-![Me](https://cdn.discordapp.com/attachments/852612021123678309/983461077058736128/LBXxwbEMQvNm0vD_jTw3ngZ6Ciuy1NdiOLy_Mo91vJ_DVP2QBGoTMAHJE6Yf2I1LpXIfO-e4.jpg "Me")
+![Me](https://cdn.discordapp.com/attachments/852612021123678309/983462174955560960/5s6GNcXll8agpmWYWIgLERwE65ByW-PeCSv7kHXOKrgVDw8hHjEiYJsCvMJyaKLpB1omqnm-.jpg "Me")
 
 <h2>Contacts:</h2>
 
-* matveikhvostikov@yahoo.com
-* jpnsmafia (telegram)
-* jpns#8888 (discord)
-* +48 730 059 668
-* +375 25 688 78 68
+* **Email:** matveikhvostikov@yahoo.com
+* **Telegram:** jpnsmafia
+* **Discord:** jpns#8888
+* **Number:** +48 730 059 668
+* **Whats'App:** +375 25 688 78 68
 
 <h2>About Me:</h2>
 27 y.o. 
