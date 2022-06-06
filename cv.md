@@ -4,44 +4,46 @@
 
 <h2>Contacts:</h2>
 
-1. matveikhvostikov@yahoo.com
-2. jpnsmafia (telegram)
-3. jpns#8888 (discord)
-4. +48 730 059 668
-5. +375 25 688 78 68
+* matveikhvostikov@yahoo.com
+* jpnsmafia (telegram)
+* jpns#8888 (discord)
+* +48 730 059 668
+* +375 25 688 78 68
 
 <h2>About Me:</h2>
 27 y.o. 
-7 years worked in a mine in Belarus. After political events, i'am left for Warsaw (Poland). 
+7 years worked in a mine in Belarus. After political events I moved for Warsaw. 
 
 <h2>Code:</h2>
 
-Напишите функцию, в теле которой будет находится следующий код:
+**Напишите функцию, в теле которой будет находится следующий код:**
 
-    const fullName = `${firstName} ${lastName}`;
-    console.log(fullName);
+```javascript
+    const getFullName = `${firstName} ${lastName}`;
+    console.log(getFullName);
 
     firstName и lastName - это параметры функции
+```
+**При вызове функции передайте ей, в качестве аргумента, свое имя и фамилию.**
 
-При вызове функции передайте ей, в качестве аргумента, свое имя и фамилию.
+```javascript
+    const getFullName = (firstName, lastName) => {
 
-    const fullName = (firstName, lastName) => {
-
-    const fullName = `${firstName} ${lastName}`;
+        const getFullName = `${firstName} ${lastName}`;
     
-    console.log(fullName);
+        console.log(getFullName);
     }
-    fullName ('matvei', 'khvostikov');
+    getFullName ('matvei', 'khvostikov');
+```
+**Вывести в консоль с помощью цикла WHILE все нечетные числа от 21 до 67**
 
-Вывести в консоль с помощью цикла WHILE все нечетные числа от 21 до 67
-    
-
+```javascript
     let a = 21;
     while(a<67) {
-    a = a + 2;
+        a = a + 2;
     console.log(a);
     }
-
+```
 <h2>Skills:</h2>
 
 * JS
