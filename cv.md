@@ -64,4 +64,3 @@
 - Russian
 - Polish
 - English
- 
