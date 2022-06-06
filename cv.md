@@ -12,7 +12,7 @@
 
 <h2>About Me:</h2>
 27 y.o. 
-7 years worked in a mine in Belarus. After political events I moved for Warsaw. 
+7 years worked in a mine in Belarus. After political events I moved to Warsaw.
 
 <h2>Code:</h2>
 
