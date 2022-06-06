@@ -1,6 +1,6 @@
 <h1>Matvei Khvostikov</h1>
 
-![Me](https://cdn.discordapp.com/attachments/852612021123678309/983462174955560960/5s6GNcXll8agpmWYWIgLERwE65ByW-PeCSv7kHXOKrgVDw8hHjEiYJsCvMJyaKLpB1omqnm-.jpg "Me")
+![Me](https://cdn.discordapp.com/attachments/852612021123678309/983464046726643762/1221.png "Me")
 
 <h2>Contacts:</h2>
 
