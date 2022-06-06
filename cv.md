@@ -1,6 +1,6 @@
 <h1>Matvei Khvostikov</h1>
 
-![Me](https://media.discordapp.net/attachments/852612021123678309/983425895165472888/IMG_20220405_075530_099.jpg?width=1880&height=1058 "Me")
+![Me](https://cdn.discordapp.com/attachments/852612021123678309/983461077058736128/LBXxwbEMQvNm0vD_jTw3ngZ6Ciuy1NdiOLy_Mo91vJ_DVP2QBGoTMAHJE6Yf2I1LpXIfO-e4.jpg "Me")
 
 <h2>Contacts:</h2>
 
@@ -13,6 +13,8 @@
 <h2>About Me:</h2>
 27 y.o. 
 7 years worked in a mine in Belarus. After political events I moved to Warsaw.
+
+My spare time I play football and video games.
 
 <h2>Code:</h2>
 
